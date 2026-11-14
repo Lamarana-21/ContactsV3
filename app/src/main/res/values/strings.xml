@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Contacts V3</string>
+    <string name="search_hint">Rechercher (nom, prénom, tél)...</string>
+    <string name="empty_search_result">Aucun contact ne correspond à votre recherche.</string>
+    <string name="photo_description">Photo du contact</string>
+    <string name="btn_gallery">Galerie</string>
+    <string name="btn_camera">Caméra</string>
+    <string name="hint_nom">Nom</string>
+    <string name="hint_prenom">Prénom</string>
+    <string name="hint_phone">Téléphone</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_latitude">Latitude (-90 à 90)</string>
+    <string name="hint_longitude">Longitude (-180 à 180)</string>
+    <string name="btn_call">Appeler</string>
+    <string name="btn_email">E-mail</string>
+    <string name="btn_show_map">Voir sur la carte</string>
+    <string name="btn_save">Enregistrer</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="map_error_message">Coordonnées GPS absentes ou invalides pour ce contact.</string>
+</resources>
